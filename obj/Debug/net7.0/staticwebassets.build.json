@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "grVXLVMsu3WO+lMJf7O5s1beL4apgLLEQnNwfIxQpLo=",
+  "Source": "csharp-crud-api",
+  "BasePath": "_content/csharp-crud-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
