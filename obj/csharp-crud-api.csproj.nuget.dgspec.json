@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\live\\csharp-crud-api\\csharp-crud-api.csproj": {}
+    "C:\\Users\\taylormattison\\Documents\\GitHub\\csharp-crud-api\\csharp-crud-api.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\live\\csharp-crud-api\\csharp-crud-api.csproj": {
+    "C:\\Users\\taylormattison\\Documents\\GitHub\\csharp-crud-api\\csharp-crud-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\live\\csharp-crud-api\\csharp-crud-api.csproj",
+        "projectUniqueName": "C:\\Users\\taylormattison\\Documents\\GitHub\\csharp-crud-api\\csharp-crud-api.csproj",
         "projectName": "csharp-crud-api",
-        "projectPath": "C:\\workspace\\live\\csharp-crud-api\\csharp-crud-api.csproj",
-        "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\live\\csharp-crud-api\\obj\\",
+        "projectPath": "C:\\Users\\taylormattison\\Documents\\GitHub\\csharp-crud-api\\csharp-crud-api.csproj",
+        "packagesPath": "C:\\Users\\taylormattison\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taylormattison\\Documents\\GitHub\\csharp-crud-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\franc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\taylormattison\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,11 +44,15 @@
               "target": "Package",
               "version": "[7.0.3, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[7.0.10, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
@@ -76,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
